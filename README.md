@@ -1,6 +1,6 @@
 ## doom-one-alternative-theme
 
-#### This file is just a little modification to the already-wonderful doom-one-theme found at https://github.com/hlissner/emacs-doom-themes.
+This file is just a little modification to the already-wonderful doom-one-theme found at https://github.com/hlissner/emacs-doom-themes.
 
 #### In short:
 * Yellow is "more yellow," and less of a dull orange color.
